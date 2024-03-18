@@ -5,3 +5,4 @@ Import data  |  Creating DB  |  Writing Queries  |  Creating report
 Part2: Excel
 Connecting To MS SQL Server  |  Data cleaning  |  Data processing  |  Data analysis  |  Data visualization  | Report/ Dashboard
 Problem statement
+KPI's Requirement
